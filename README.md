@@ -1,6 +1,6 @@
 # Responsive Portfolio Website Rian
 ## [Watch it on youtube](https://youtu.be/-uQIBlaZ4P0)
-### Responsive Portfolio Website Aditya
+### Responsive Portfolio Website Aditya Barodiya
 
 - Responsive Personal Portfolio Website Using HTML CSS & JavaScript
 - Contains animations when scrolling.
